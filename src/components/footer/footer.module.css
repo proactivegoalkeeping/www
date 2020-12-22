@@ -1,0 +1,10 @@
+.footer {
+  background: var(--black);
+  border-top: solid 1px var(--gray-dark);
+  bottom: 0;
+  font-family: var(--font-family-monospace);
+  font-size: 1rem;
+  left: 0;
+  position: fixed;
+  right: 0;
+}
