@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'ProActive Goalkeeping',
     description:
-      'Proactive Goalkeeping’s Head Coach Mikhael Jaimez Ruiz has a wealth of experience having played professionally for over 10 years, including representing his country at International level.'
+      "Proactive Goalkeeping's Head Coach Mikhael Jaimez Ruiz has a wealth of experience having played professionally for over 10 years, including representing his country at International level."
   },
   plugins: [
     'gatsby-plugin-sharp',
